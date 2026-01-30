@@ -1,65 +1,115 @@
-# 📋 CadastraFacil Plus
 
-O **CadastraFacil Plus** é uma aplicação em Java desenvolvida para praticar lógica de programação, estruturas de repetição, condicionais, funções e organização de código, tudo em modo console.
 
-O sistema permite cadastrar um funcionário, exibir seus dados e calcular um novo salário com base no cargo informado.
+````markdown
+# 📋 CadastraFácil Plus
+
+O **CadastraFácil Plus** é uma aplicação em **Java (console)** desenvolvida com foco em **lógica de programação**, **organização de código** e **uso de funções**.  
+O sistema permite cadastrar um funcionário, exibir seus dados e calcular um novo salário com base no cargo.
+
+Este projeto foi criado como parte do meu aprendizado em Java, aplicando conceitos fundamentais da linguagem.
 
 ---
 
 ## 🚀 Funcionalidades
 
-- 📌 Menu interativo no terminal
-- 👤 Cadastro de funcionário (nome, cargo e salário)
-- 📄 Exibição dos dados cadastrados
-- 💰 Cálculo de novo salário com base no cargo:
-  - Estagiário → +5%
-  - Júnior → +10%
-  - Pleno → +15%
-  - Sênior → +20%
-- ⏸️ Pausa entre as opções para melhor experiência no terminal
-- ❌ Validação para impedir ações sem cadastro prévio
+- 📌 Cadastro de funcionário
+- 👤 Exibição dos dados cadastrados
+- 💰 Cálculo de novo salário com base no cargo
+- 📂 Menu interativo no terminal
+- 🧠 Uso de funções para melhor organização do código
+- 🔁 Estrutura de repetição com `do-while`
+- 🔀 Decisão com `switch-case`
+
+---
+
+## 🧑‍💻 Cargos e reajustes salariais
+
+| Cargo       | Aumento |
+|-------------|---------|
+| Estagiário  | 5%      |
+| Júnior      | 10%     |
+| Pleno       | 15%     |
+| Sênior      | 20%     |
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 
 - **Java**
-- **Scanner** para entrada de dados
-- **Estruturas de controle**:
-  - `if / else`
-  - `switch case`
-  - `do-while`
-- **Funções (métodos)** para organização do código
+- **Scanner (entrada de dados)**
+- **Estruturas condicionais**
+- **Funções / Métodos**
+- **Programação estruturada**
 
 ---
-
-## 📚 O que foi praticado neste projeto
-
-- Lógica de programação
-- Estrutura de menus
-- Separação de responsabilidades em funções
-- Boas práticas iniciais de organização
-- Simulação de um sistema real de cadastro
-- Controle de fluxo no terminal
-
-> ⚠️ Observação: o projeto foi desenvolvido **sem orientação a objetos**, com foco em fortalecer a base da linguagem Java antes de avançar para POO.
-
----
-
 
 ## ▶️ Como executar
 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/cadastrafacil-plus.git
-   
-Compile o arquivo:
+````
 
-javac Main.java
+2. Acesse a pasta do projeto:
 
-Execute o programa:
+   ```bash
+   cd cadastrafacil-plus
+   ```
 
-java Main
+3. Compile o arquivo:
 
-🧠 Autor
-Projeto desenvolvido por Hyann dos Santos Espindas, com foco em aprendizado prático de Java e evolução contínua como desenvolvedor.
+   ```bash
+   javac Main.java
+   ```
+
+4. Execute o programa:
+
+   ```bash
+   java Main
+   ```
+
+---
+
+## 📌 Exemplo do menu
+
+```text
+=== CadastraFacil Plus ===
+1 - Cadastrar funcionario
+2 - Exibir dados
+3 - Calcular novo salario
+0 - Sair
+Escolha uma opcao:
+```
+
+---
+
+## 🎯 Objetivo do projeto
+
+Este projeto tem como objetivo:
+
+* Praticar lógica de programação em Java
+* Aprender a separar responsabilidades em funções
+* Trabalhar com menus no terminal
+* Simular um sistema simples de cadastro
+* Evoluir gradualmente para projetos mais complexos
+
+---
+
+## 📈 Próximas melhorias (ideias)
+
+* Permitir cadastro de múltiplos funcionários
+* Usar classes e objetos (`POO`)
+* Validação de entradas
+* Persistência de dados (arquivo ou banco de dados)
+* Interface gráfica futuramente
+
+---
+
+## 📚 Autor
+
+Desenvolvido por **Hyann dos Santos Espindas**
+Estudante de Engenharia de Software | Java & Python 🚀
+
+Se quiser trocar ideia ou dar feedback, fica à vontade!
+
+```
