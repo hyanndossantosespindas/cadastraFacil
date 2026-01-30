@@ -51,9 +51,11 @@ O sistema permite cadastrar um funcionário, exibir seus dados e calcular um nov
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/cadastrafacil-plus.git
+   
 Compile o arquivo:
 
 javac Main.java
+
 Execute o programa:
 
 java Main
