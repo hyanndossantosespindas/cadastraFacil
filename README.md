@@ -106,4 +106,4 @@ Este projeto tem como objetivo:
 ## 📚 Autor
 
 Desenvolvido por **Hyann dos Santos Espindas**
-Estudante de Engenharia de Software | Java & Python 🚀
+Estudante de Engenharia de Software 🚀
