@@ -46,7 +46,7 @@ Este projeto foi criado como parte do meu aprendizado em Java, aplicando conceit
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/cadastrafacil-plus.git
-````
+```
 
 2. Acesse a pasta do projeto:
 
