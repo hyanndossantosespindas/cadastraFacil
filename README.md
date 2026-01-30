@@ -46,6 +46,7 @@ O sistema permite cadastrar um funcionário, exibir seus dados e calcular um nov
 
 ---
 
+
 ## ▶️ Como executar
 
 1. Clone o repositório:
