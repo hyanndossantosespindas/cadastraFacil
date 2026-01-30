@@ -1,6 +1,4 @@
 
-
-````markdown
 # 📋 CadastraFácil Plus
 
 O **CadastraFácil Plus** é uma aplicação em **Java (console)** desenvolvida com foco em **lógica de programação**, **organização de código** e **uso de funções**.  
