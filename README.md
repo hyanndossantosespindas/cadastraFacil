@@ -107,7 +107,3 @@ Este projeto tem como objetivo:
 
 Desenvolvido por **Hyann dos Santos Espindas**
 Estudante de Engenharia de Software | Java & Python 🚀
-
-Se quiser trocar ideia ou dar feedback, fica à vontade!
-
-```
